@@ -38,7 +38,7 @@
     "handlebars": "^4.7.3",
     "highlight.js": "^9.15.6",
     "markdown-it": "^10.0.0",
-    "nunjucks": "^3.2.0",
+    "nunjucks": "^3.2.1",
     "resolve": "^1.10.1",
     "twig": "^1.15.0",
     "twig-drupal-filters": "^3.0.0",
